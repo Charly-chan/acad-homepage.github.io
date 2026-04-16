@@ -1,0 +1,1 @@
+cd /data2/acad-homepage.github.io && git add -A && git commit -m "update content" && git push origin main

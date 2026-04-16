@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MPhil student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof. [Hui Xiong (熊辉)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/huixiong). 
+I am an MPhil student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof. [Hui Xiong (熊辉)](IEEE, ACM, CCF Fellow)(https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/huixiong). 
 
 My research focuses on **Multimodal Large Language Models (MLLMs)** and **Computer Vision**, with particular interest in table understanding, visual question answering, and document intelligence. I am passionate about building AI systems that can reason across text, images, and structured data.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Our paper is accepted by acl 2026!
 - *2026.04*: &nbsp;🎉🎉 Our paper [TableVision](https://arxiv.org/abs/2604.03660) is now on arXiv!
 - *2026.02*: &nbsp;🎉🎉 Our paper [VideoAfford](https://arxiv.org/abs/2602.09638) is now on arXiv!
 
