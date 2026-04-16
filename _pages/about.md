@@ -36,7 +36,7 @@ My research focuses on **Multimodal Large Language Models (MLLMs)** and **Comput
 
 *(\* indicates equal contribution)*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="TableVision" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/tablevision.png' alt="TableVision" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**TableVision: A Large-Scale Benchmark for Spatially Grounded Reasoning over Complex Hierarchical Tables**](https://arxiv.org/abs/2604.03660)
@@ -48,7 +48,7 @@ My research focuses on **Multimodal Large Language Models (MLLMs)** and **Comput
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="VideoAfford" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/videoafford.png' alt="VideoAfford" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model**](https://arxiv.org/abs/2602.09638)
