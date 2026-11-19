@@ -22,7 +22,8 @@ I am an MPhil student at the [Hong Kong University of Science and Technology (Gu
 My research focuses on **Multimodal Large Language Models (MLLMs)** and **Computer Vision**, with particular interest in table understanding, visual question answering, and document intelligence. I am passionate about building AI systems that can reason across text, images, and structured data.
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our paper is accepted by acl 2026!
+- *2026.09*: &nbsp;🎉🎉 Our paper [SWE-Game](https://arxiv.org/abs/2609.33678) is now on arXiv!
+- *2026.04*: &nbsp;🎉🎉 Our paper [SceneLM](https://aclanthology.org/2026.findings-acl.2116/) is accepted by Findings of ACL 2026!
 - *2026.04*: &nbsp;🎉🎉 Our paper [TableVision](https://arxiv.org/abs/2604.03660) is now on arXiv!
 - *2026.02*: &nbsp;🎉🎉 Our paper [VideoAfford](https://arxiv.org/abs/2602.09638) is now on arXiv!
 
@@ -60,8 +61,13 @@ Hanqing Wang, Mingyu Liu, **Xiaoyu Chen**, Chengwei Ma, Yiming Zhong, Wenti Yin,
 </div>
 </div>
 
+- [**SWE-Game: Can Coding Agents Build the Games We Want?**](https://arxiv.org/abs/2609.33678), **Xiaoyu Chen**, Lai Wei, Jin Wang, Xiangyu Zou, Ruochen Fan, Enze Luo, Mingzhe Yao, Jiahui Zhu, Yuhua Wen, Linghe Kong, Weiran Huang, *arXiv 2026*
+- [**SceneLM: 3D-Aware Language Models for Editable 3D Scene Synthesis**](https://aclanthology.org/2026.findings-acl.2116/), Xingbo Yao, **Xiaoyu Chen**, Doudou Zhang, Mingzhi Sheng, Boyuan Cao, Ying-Cong Chen, Hui Xiong, **Findings of ACL 2026**
 - [**Graph Attention and Layer Refinement Integrated LightGCN for Enhanced Recommender System**](https://ieeexplore.ieee.org/document/11021789), **Xiaoyu Chen**, et al., *IEEE*
 
 # 📖 Educations
 - *2025.09 - Present*, M.Phil., [Information Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/), Hong Kong University of Science and Technology (Guangzhou). Advised by Prof. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/huixiong).
-- *2021.09 - 2025.07*, B.Eng. in Computer Science and Technology, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn/).
+- *2021.09 - 2025.07*, B.Eng. in Computer Science and Technology, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn/). Advised by Prof. Jin Long.
+
+# 💻 Experience
+- *2026.07 - Present*, Intern, [Tencent IEG LightSpeed Studios](https://www.lightspeed-studios.com/).
