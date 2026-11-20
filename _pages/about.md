@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MPhil student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof. [Hui Xiong (熊辉)](IEEE, ACM, CCF Fellow)(https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/huixiong). 
+I am an MPhil student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Prof. [Hui Xiong (熊辉)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/huixiong) (IEEE, ACM, CCF Fellow). 
 
 My research focuses on **Multimodal Large Language Models (MLLMs)** and **Computer Vision**, with particular interest in table understanding, visual question answering, and document intelligence. I am passionate about building AI systems that can reason across text, images, and structured data.
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 [SWE-Game](https://github.com/Charly-chan/SWE-Game) is open-sourced! Check out the [code](https://github.com/Charly-chan/SWE-Game) and [dataset](https://huggingface.co/datasets/Charly-chan/SWE-Game).
+- *2026.09*: &nbsp;🎉🎉 Our paper [VideoAfford](https://arxiv.org/abs/2602.09638) is accepted by NeurIPS 2026!
 - *2026.09*: &nbsp;🎉🎉 Our paper [SWE-Game](https://arxiv.org/abs/2609.33678) is now on arXiv!
 - *2026.04*: &nbsp;🎉🎉 Our paper [SceneLM](https://aclanthology.org/2026.findings-acl.2116/) is accepted by Findings of ACL 2026!
 - *2026.04*: &nbsp;🎉🎉 Our paper [TableVision](https://arxiv.org/abs/2604.03660) is now on arXiv!
@@ -37,6 +39,18 @@ My research focuses on **Multimodal Large Language Models (MLLMs)** and **Comput
 
 *(\* indicates equal contribution)*
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://arxiv.org/html/2609.33678v3/teaser.png' alt="SWE-Game" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SWE-Game: Can Coding Agents Build the Games We Want?**](https://arxiv.org/abs/2609.33678)
+
+**Xiaoyu Chen**, Lai Wei, Jin Wang, Xiangyu Zou, Ruochen Fan, Enze Luo, Mingzhe Yao, Jiahui Zhu, Yuhua Wen, Linghe Kong, Weiran Huang
+
+[**arXiv**](https://arxiv.org/abs/2609.33678) | [**Code**](https://github.com/Charly-chan/SWE-Game) | [**Dataset**](https://huggingface.co/datasets/Charly-chan/SWE-Game)
+- Introduces SWE-Game, a benchmark built on 41 executable Godot reference games across 13 gameplay categories, covering five task types from building games to bug repair and Godot-to-Unity porting; even the strongest coding agent stays below 60/100 on game construction.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/tablevision.png' alt="TableVision" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,25 +63,35 @@ My research focuses on **Multimodal Large Language Models (MLLMs)** and **Comput
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/videoafford.png' alt="VideoAfford" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/videoafford.png' alt="VideoAfford" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model**](https://arxiv.org/abs/2602.09638)
 
 Hanqing Wang, Mingyu Liu, **Xiaoyu Chen**, Chengwei Ma, Yiming Zhong, Wenti Yin, Yuhao Liu, Zhiqing Cui, Jiahao Yuan, Lu Dai, Zhiyuan Ma, Hui Xiong
 
-[**arXiv**](https://arxiv.org/abs/2602.09638)
+[**NeurIPS 2026**](https://neurips.cc/virtual/2026/poster/150009) | [**arXiv**](https://arxiv.org/abs/2602.09638)
 - Collects VIDA, a 38K HOI video dataset covering 16 affordance types and 38 object categories; proposes VideoAfford to enable MLLMs with fine-grained 3D affordance grounding via latent action encoding and spatial-aware loss.
 </div>
 </div>
 
-- [**SWE-Game: Can Coding Agents Build the Games We Want?**](https://arxiv.org/abs/2609.33678), **Xiaoyu Chen**, Lai Wei, Jin Wang, Xiangyu Zou, Ruochen Fan, Enze Luo, Mingzhe Yao, Jiahui Zhu, Yuhua Wen, Linghe Kong, Weiran Huang, *arXiv 2026*
-- [**SceneLM: 3D-Aware Language Models for Editable 3D Scene Synthesis**](https://aclanthology.org/2026.findings-acl.2116/), Xingbo Yao, **Xiaoyu Chen**, Doudou Zhang, Mingzhi Sheng, Boyuan Cao, Ying-Cong Chen, Hui Xiong, **Findings of ACL 2026**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/scenelm.png' alt="SceneLM" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SceneLM: 3D-Aware Language Models for Editable 3D Scene Synthesis**](https://aclanthology.org/2026.findings-acl.2116/)
+
+Xingbo Yao, **Xiaoyu Chen**, Doudou Zhang, Mingzhi Sheng, Boyuan Cao, Ying-Cong Chen, Hui Xiong
+
+[**Findings of ACL 2026**](https://aclanthology.org/2026.findings-acl.2116/)
+- Recovers an executable metric 3D layout from a single RGB image and calls tools to synthesize and iteratively edit the 3D scene, outperforming strong open and proprietary MLLMs on single-image 3D layout estimation.
+</div>
+</div>
+
 - [**Graph Attention and Layer Refinement Integrated LightGCN for Enhanced Recommender System**](https://ieeexplore.ieee.org/document/11021789), **Xiaoyu Chen**, et al., *IEEE*
 
 # 📖 Educations
 - *2025.09 - Present*, M.Phil., [Information Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/), Hong Kong University of Science and Technology (Guangzhou). Advised by Prof. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/huixiong).
 - *2021.09 - 2025.07*, B.Eng. in Computer Science and Technology, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn/). Advised by Prof. Jin Long.
 
-# 💻 Experience
+# 💻 Internships
 - *2026.07 - Present*, Intern, [Tencent IEG LightSpeed Studios](https://www.lightspeed-studios.com/).
